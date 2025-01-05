@@ -1,4 +1,4 @@
-# 🌿 <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/imageSet1/myProfilePictureFull.jpg" style="color: #86d72f">Hello~</a>
+# 🌿 <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/imageSet1/myProfilePictureFull.jpg" style="color: red">Hello~</a>
 
 ## ⭐ <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/imageSet2/forAnimeFull_size60quality80.jpg" style="color: #fcd53f">My Repositories</a>
 Stable:
