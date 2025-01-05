@@ -1,6 +1,6 @@
-# 🌿 <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/myProfilePictureFull.jpg" style="color:green">Hello~</a>
+# 🌿 <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/imageSet1/myProfilePictureFull.jpg" style="color: #86d72f">Hello~</a>
 
-## ⭐ My Repositories
+## ⭐ <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/imageSet2/forAnimeFull_size60quality80.jpg" style="color: #fcd53f">Hello~</a>
 Stable:
 
 0. [**Vineel018**](https://github.com/Vineel180/Vineel180): This repository i.e. my introduction page.
