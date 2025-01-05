@@ -1,4 +1,4 @@
-# 🌿 [Hello~](https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/myProfilePictureFull.jpg)
+# 🌿 <a href="https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/myProfilePictureFull.jpg" style="color:green">Hello~</a>
 
 ## ⭐ My Repositories
 Stable:
