@@ -1,11 +1,11 @@
-# 🌿 Hello~
+# 🌿 [Hello~](https://raw.githubusercontent.com/Vineel180/Vineel180/refs/heads/main/AppData/Images/myProfilePictureFull.jpg)
 
 ## ⭐ My Repositories
 Stable:
 
-0. Vineel018: This repository i.e. my introduction page.
-1. [PythonLibrary](https://github.com/Vineel180/PythonLibrary): A set of useful and robust python libraries. **Note: Often referenced by my other repositories.**
-2. ComputerStartup: Automatically open your desired apps, folders, files and sites, whenever you want.
+0. [**Vineel018**](https://github.com/Vineel180/Vineel180): This repository i.e. my introduction page.
+1. [**PythonLibrary**](https://github.com/Vineel180/PythonLibrary): A set of useful and robust python libraries. **Note: Often referenced by my other repositories.**
+2. [**ComputerStartup**](https://github.com/Vineel180/ComputerStartup): Automatically open your desired apps, folders, files and sites, whenever you want.
 
 Beta:
 
@@ -21,6 +21,6 @@ Beta:
 
 Pending:
 
-1. HabitTracker (cross-platform, with sync): A cross-platform habit tracker with sync.
-2. Alarm (with a QR scanner): An alarm app, with a OR scanner (and more) for disabling alarms.
+1. HabitTracker: A cross-platform habit tracker with sync.
+2. Alarm: An alarm app, with OR scanner (and typing and more) for disabling alarms.
 3. ComickReorganised: Built on top of ComickFiltered. Reorganised ComickFiltered's data using AI. Note: I don't know a lot about AI development, so I don't know how this one will go.
