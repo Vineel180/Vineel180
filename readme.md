@@ -4,10 +4,13 @@
 *Stable:*
 
 0. [**Vineel018**](https://github.com/Vineel180/Vineel180): This repository, i.e., my introduction page.
+
+*Beta*
+
 1. [**PythonLibrary**](https://github.com/Vineel180/PythonLibrary): A set of useful and robust python libraries. **Note: Often referenced by my other repositories.**
 2. [**ComputerStartup**](https://github.com/Vineel180/ComputerStartup): Automatically open your desired apps, folders, files and sites, whenever you want.
 
-*Beta:*
+*Alpha:*
 
 1. DevTools: A set of developer tools to make software development easier.
 2. MiniApps: A set of small but useful apps to improve one's user experience.
@@ -15,9 +18,9 @@
 4. CbzAndEpub: Extract images from CBZs and EPUBs, and convert images into CBZs.
 5. AshenSilver: Manage your art references, either in-bulk at once (AshenSilver), or one-by-one in real time as you browse (AshenSilvering).
 6. Pixiv: Mass download images from pixiv.net, yande.re and more. Download all images by an artist, and set auto-download for their new works.
-7. ComickFiltered: Scrape comick.io's homepage into a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
-8. RyuugamesFiltered: Scrape ryuugames.com's homepage into a better UI; with alerts for entries by favourited companies and filter out ignored company-titles/keywords.
-9. JnovelsFiltered: Scrape jnovels.com's homepage into a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
+7. ComickFiltered: Scrape comick.io's homepage to a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
+8. RyuugamesFiltered: Scrape ryuugames.com's homepage to a better UI; with alerts for entries by favourited companies and filter out ignored company-titles/keywords.
+9. JnovelsFiltered: Scrape jnovels.com's homepage to a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
 
 *Pending:*
 
