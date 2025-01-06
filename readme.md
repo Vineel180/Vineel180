@@ -15,9 +15,9 @@
 4. CbzAndEpub: Extract images from CBZs and EPUBs, and convert images into CBZs.
 5. AshenSilver: Manage your art references, either in-bulk at once (AshenSilver), or one-by-one in real time as you browse (AshenSilvering).
 6. Pixiv: Mass download images from pixiv.net, yande.re and more. Download all images by an artist, and set auto-download for their new works.
-7. ComickFiltered: Web-scrape comick.com's homepage, with alerts for favourited entries and ignored entries filtered-out.
-8. RyuugamesFiltered: Web-scrape ryuugames.com's homepage, with alerts for entries by favourited companies.
-9. JnovelsFiltered: Web-scrape jnovels.com's homepage, with alerts for favourited entries and ignored entries filtered-out.
+7. ComickFiltered: Scrape comick.io's homepage into a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
+8. RyuugamesFiltered: Scrape ryuugames.com's homepage into a better UI; with alerts for entries by favourited companies and filter out ignored company-titles/keywords.
+9. JnovelsFiltered: Scrape jnovels.com's homepage into a better UI, with easy access to favourite/add/drop; with alerts for favourited entries and filter out ignored entries/keywords.
 
 *Pending:*
 
