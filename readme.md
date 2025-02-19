@@ -1,3 +1,3 @@
-Specialization: Python and Flutter for Windows app dev, Web-scraping, ML based AI, Cross-platform app dev (Windows, Android, Web).
+Specializations: Python and Flutter for Windows application development, Web scraping, Machine Learning-based AI, Cross-platform application development (Windows, Android, Web).
 
 <a href="https://vineel180.github.io#contactMe">Contact me</a>
